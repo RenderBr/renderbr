@@ -3,6 +3,7 @@ Hey, I'm Average. I'm the manager of TBC and the founder of the now-defunct Aver
 I primarily do TShock related stuff but I also work on Spigot plugins, Forge mods, web apps, and completely random C# applications.
 
 **For a list of my TShock Plugins:** [click here](https://github.com/RenderBr/My-Plugins)
+
 **For a list of up-to-date TShock plugins (v4.5 -> v5): [click here](https://github.com/RenderBr/tShock-v5-plugins)
 
 
