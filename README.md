@@ -4,7 +4,7 @@ I primarily do TShock related stuff but I also work on Spigot plugins, Forge mod
 
 **For a list of my TShock Plugins:** [click here](https://github.com/RenderBr/My-Plugins)
 
-**For a list of up-to-date TShock plugins (v4.5 -> v5): [click here](https://github.com/RenderBr/tShock-v5-plugins)
+**For a list of up-to-date TShock plugins** (v4.5 -> v5): [click here](https://github.com/RenderBr/tShock-v5-plugins)
 
 
 [![Average's Github Stats](https://github-readme-stats.vercel.app/api?username=renderbr&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
