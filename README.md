@@ -1,13 +1,11 @@
 ## Who am I?
-Hey, I'm Average. I'm the manager of TBC and the founder of the now-defunct Average's Terraria. I maintain a lot of TShock plugins, as well as dabble in some more generalized web development, API tomfoolery, among other random hobby projects.
-I primarily do TShock related stuff but I also work on Spigot plugins, Forge mods, web apps, and completely random C# applications.
+Hello there, I'm Average, or you can find me as @rageave on Discord. I'm a freelance software developer with a passion for working on various hobby projects. My main focus is C#, but I also have a good grasp of web development, covering a wide range of technologies such as ReactJS, ExpressJS, Blazor, PHP, and a solid understanding of web servers and system administration. In my free time, I enjoy diving into TShock projects, so don't hesitate to explore what I've been working on! Feel free to reach out and connect with me.
 
 **Support or commission me here:** [Ko-Fi](https://ko-fi.com/averageterraria)
 
 **For a list of my TShock Plugins:** [click here](https://github.com/RenderBr/My-Plugins)
 
 **For a list of up-to-date TShock plugins** (v4.5 -> v5): [click here](https://github.com/RenderBr/tShock-v5-plugins)
-
 
 [![Average's Github Stats](https://github-readme-stats.vercel.app/api?username=renderbr&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
