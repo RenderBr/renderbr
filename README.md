@@ -1,5 +1,9 @@
 ## Who am I?
-Hello there, I'm Average, or you can find me as @rageave on Discord. I'm a freelance software developer with a passion for working on various hobby projects. My main focus is C#, but I also have a good grasp of web development, covering a wide range of technologies such as ReactJS (and NextJS), ExpressJS, Blazor, PHP, and a solid understanding of web servers, APIs, databases and system administration. In my free time, I enjoy working on TShock projects, so don't hesitate to explore what I've been working on! Feel free to reach out and connect with me. **I do projects on commission and I am very happy to negotiate a fair price that would work for both parties**
+Hello there, I'm Average (Julian Seitz), or you can find me as @rageave on Discord. I'm a freelance software developer with a passion for working on various hobby projects.
+
+My main focus is **C# and .NET**, but I have knowledge in a wide variety of technologies such as **React (and NextJS)**, ExpressJS, Blazor, PHP, and a solid understanding of web servers, APIs, databases and system administration. I am pretty capable at creating nice, minimalistic and simple front-end UIs, but backend is definitely my stronger suit.
+
+In my free time, I enjoy working on TShock projects, so don't hesitate to explore what I've been working on! Feel free to reach out and connect with me. **I do projects on commission and I am very happy to negotiate a fair price that would work for both parties**
 
 **Support or commission me here:** [Ko-Fi](https://ko-fi.com/averageterraria)
 
