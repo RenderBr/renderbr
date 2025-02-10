@@ -1,17 +1,26 @@
 ## Who am I?
-Hello there, I'm Average (Julian Seitz), or you can find me as @rageave on Discord. I'm a freelance software developer with a passion for working on various hobby projects.
+👋 Hey there! My name is **Julian Seitz**, known online as **Average**. 
 
-My main focus is **C# and .NET**, but I have knowledge in a wide variety of technologies such as **React (and NextJS)**, ExpressJS, Blazor, PHP, and a solid understanding of web servers, APIs, databases and system administration. I am pretty capable at creating nice, minimalistic and simple front-end UIs, but backend is definitely my stronger suit.
+- I'm currently studying **Computer Programming & Analysis** at St. Lawrence College in Kingston, Ontario. (Year of 2026)
+- I work as a **freelance software developer**, building **full-stack applications** for a variety of clients and projects. **I'm open to discussing new projects, and negotiating fair pricing.**
 
-In my free time, I enjoy working on TShock projects, so don't hesitate to explore what I've been working on! Feel free to reach out and connect with me. **I do projects on commission and I am very happy to negotiate a fair price that would work for both parties**
+![@rageave on Discord](https://dcbadge.limes.pink/api/shield/291290203589705740)
+[![JulianSeitz on LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julianseitz/)
 
-**Support or commission me here:** [Ko-Fi](https://ko-fi.com/averageterraria)
+☕ **Buy me a coffee** @ [Ko-Fi](https://ko-fi.com/averageterraria)
 
-**For a list of my TShock Plugins:** [click here](https://github.com/RenderBr/My-Plugins)
-
-**For a list of up-to-date TShock plugins** (v4.5 -> v5): [click here](https://github.com/RenderBr/tShock-v5-plugins)
+⚡ **Updated TShock plugin assemblies** (v4.5 -> v5): [click here](https://github.com/RenderBr/tShock-v5-plugins)
 
 [![Average's Github Stats](https://github-readme-stats.vercel.app/api?username=renderbr&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+### My story
+I've been obsessed with computers and technology for as long as I can remember, practically since birth. My parents love to tell stories about how I was playing Flash games on a computer before I was even a year old.
+
+My introduction to programming came from my dad, [@ontehfritz](https://github.com/ontehfritz), a fellow developer and my biggest inspiration. When I was around eight years old, he introduced me to my first C# Console application, teaching me the basics of inputting and outputting text via the console. That moment sparked a lifelong passion for programming.
+
+Many years of self-learning later, countless hours of trial & error, late night debugging, and hundreds of hobby projects, I've garnered a deep understanding for the world of software development. What started out as writing simple console applications, gradually evolved into developing full stack web and desktop applications, game modifications, AI-driven tools, and much more.
+
+Since 2023, I've been receiving freelance contract offers to develop custom software for a wide array of clients, steadily growing my experience through completing these projects. If you have a project or even just want to chat about programming, feel free to get in touch with me!
 
 ### Languages & Tools
 These are some languages, tools, frameworks, and other development good-ness that I use and recommend.
@@ -40,6 +49,3 @@ These are some languages, tools, frameworks, and other development good-ness tha
 [![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)](https://www.apache.org/)
 [![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)](https://www.microsoft.com/en-us/windows)
 [![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://www.mozilla.org/en-CA/firefox/)
-
-### Reach me
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Qj38DPvgzM)
