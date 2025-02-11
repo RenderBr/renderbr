@@ -7,9 +7,12 @@
 ![@rageave on Discord](https://dcbadge.limes.pink/api/shield/291290203589705740)
 [![JulianSeitz on LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julianseitz/)
 
+--- 
 ☕ **Buy me a coffee** @ [Ko-Fi](https://ko-fi.com/averageterraria)
 
 ⚡ **Updated TShock plugin assemblies** (v4.5 -> v5): [click here](https://github.com/RenderBr/tShock-v5-plugins)
+
+---
 
 ### My story
 I've been obsessed with computers and technology for as long as I can remember, practically since birth. My parents love to tell stories about how I was playing Flash games on a computer before I was even a year old.
