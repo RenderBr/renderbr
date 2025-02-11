@@ -1,3 +1,6 @@
+
+![Average Banner](https://github.com/user-attachments/assets/0a4da2a3-ca77-4131-ab4c-3556ef047827)
+
 ## Who am I?
 👋 Hey there! My name is **Julian Seitz**, known online as **Average**. 
 
