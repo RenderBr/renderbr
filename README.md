@@ -69,3 +69,5 @@ These are some languages, tools, frameworks, and other development good-ness tha
 [![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)](https://www.microsoft.com/en-us/windows)
 [![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)](https://vuejs.org/)
 [![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://www.mozilla.org/en-CA/firefox/)
+
+![2025-02-11 22-22-50_2](https://github.com/user-attachments/assets/5404f0d2-1ab0-49ca-a714-60d8446a7051)
