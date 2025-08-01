@@ -4,27 +4,32 @@
 ## Who am I?
 👋 Hey there! My name is **Julian Seitz**, known online as **Average**. 
 
-- I'm currently studying **Computer Programming & Analysis** at St. Lawrence College in Kingston, Ontario. (Year of 2026)
-- I work as a **freelance software developer**, building **full-stack applications** for a variety of clients and projects. **I'm open to discussing new projects, and negotiating fair pricing.**
+- I'm currently studying **Computer Programming & Analysis** at St. Lawrence College (Year of 2026).
+- I currently work **exclusively** for the Department of National Defense of Canada.
+- Previously, I did freelance software contracts, but will likely turn down any projects at the moment. 
 
 ![@rageave on Discord](https://dcbadge.limes.pink/api/shield/291290203589705740)
 [![JulianSeitz on LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julianseitz/)
 
 --- 
-☕ **Buy me a coffee** @ [Ko-Fi](https://ko-fi.com/averageterraria)
+> ☕ **Buy me a coffee** @ [Ko-Fi](https://ko-fi.com/averageterraria)
 
-⚡ **Updated TShock plugin assemblies** (v4.5 -> v5): [click here](https://github.com/RenderBr/tShock-v5-plugins)
+>⚡ **Updated TShock plugin assemblies** (v4.5 -> v5): [click here](https://github.com/RenderBr/tShock-v5-plugins)
 
 ---
 
 ### My story
-I've been obsessed with computers and technology for as long as I can remember, practically since birth. My parents love to tell stories about how I was playing Flash games on a computer before I was even a year old.
+I've been obsessed with computers and technology for as long as I can remember, practically since birth. I've been told that I was playing Flash games on computers before I was even a year old.
 
-My introduction to programming came from my dad, [@ontehfritz](https://github.com/ontehfritz), a fellow developer and my biggest inspiration. When I was around eight years old, he introduced me to my first C# Console application, teaching me the basics of inputting and outputting text via the console. That moment sparked a lifelong passion for programming.
+My introduction to programming came from my dad, [@ontehfritz](https://github.com/ontehfritz), a fellow developer and my largest source of early inspiration. When I was eight, he introduced me to C#, teaching me the basics of inputting and outputting text via the console. That moment sparked a lifelong passion for programming.
 
-Many years of self-learning later, countless hours of trial & error, late night debugging, and hundreds of hobby projects, I've garnered a deep understanding for the world of software development. What started out as writing simple console applications, gradually evolved into developing full stack web and desktop applications, game modifications, AI-driven tools, and much more.
+Many years of self-learning later, thousands of hours of trial & error, late night debugging, and hundreds of hobby projects, I've garnered a deep understanding for the world of software development. What started out as writing simple console applications, gradually evolved into developing full stack web and desktop applications, game modifications, dedicated server software, AI-driven tools, and much more.
 
-Since 2023, I've been receiving freelance contract offers to develop custom software for a wide array of clients, steadily growing my experience through completing these projects. If you have a project or even just want to chat about programming, feel free to get in touch with me!
+During 2023-2025, I was completing freelance contract offers, developing custom software for a number of clients, steadily growing my experience. 
+
+Since May 2025, I have joined National Defense of Canada as a software developer whilst finishing my studies.
+
+---
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=renderbr&theme=radical" alt="Average's Github Stats"><br>
