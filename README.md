@@ -12,6 +12,10 @@
 [![JulianSeitz on LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julianseitz/)
 
 --- 
+[![Get quality hosting!](https://i.imgur.com/4rIaoNo.jpeg)](https://billing.kinetichosting.com/aff.php?aff=1261)
+
+> **[Kinetic Hosting](https://billing.kinetichosting.com/aff.php?aff=1261):** Check out my game hosting partner! They offer fast, affordable hosting with excellent customer support!
+
 > ☕ **Buy me a coffee** @ [Ko-Fi](https://ko-fi.com/averageterraria)
 
 >⚡ **Updated TShock plugin assemblies** (v4.5 -> v5): [click here](https://github.com/RenderBr/tShock-v5-plugins)
