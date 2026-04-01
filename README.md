@@ -21,17 +21,17 @@
 ---
 
 ### My story
-I've been absolutely obsessed with computers and tech for as long as I can remember, practically since birth. I've been told that I was playing basic Flash games on computers before I was even a full year old.
+I've been **absolutely obsessed** with computers and tech for as long as I can remember, practically since birth. I've been told that I was playing basic Flash games on computers before I was even a full year old.
 
-My introduction to programming came from my dad, [@ontehfritz](https://github.com/ontehfritz), fellow developer and my largest source of early inspiration. When I was eight, he introduced me to C#, teaching me the basics of inputting and outputting text via the console, and making my first text-based narrative game. That moment sparked a lifelong passion for programming.
+My introduction to programming came from my dad, [@ontehfritz](https://github.com/ontehfritz), fellow developer and **my largest source of early inspiration**. When I was eight, he introduced me to C#, teaching me the basics of inputting and outputting text via the console, and making my first text-based narrative game. That moment sparked a lifelong passion for programming.
 
-Many years of self-learning later, thousands of hours of trial & error, late night debugging, and hundreds of hobby projects, I've garnered a deep understanding for the world of logic and software development. What started out as writing simple console applications, gradually evolved into developing full stack web and desktop applications, low-level networking tools, game modifications, dedicated server software, AI-driven tools, and much more.
+**Many years of self-learning later**, thousands of hours of trial & error, late night debugging, and hundreds of hobby projects, I've garnered a deep understanding for the world of logic and software development. What started out as writing simple console applications, gradually evolved into developing full stack web and desktop applications, low-level networking tools, game modifications, dedicated server software, AI-driven tools, and much more.
 
-During 2023-2025, I was completing freelance contract offers, developing custom software for a number of clients, steadily growing my experience with a broken dominant right arm. (Yes, I completed a bulk of my contracts with one hand)
+**From 2023-2025, I was completing freelance contract offers,** developing custom software for a number of clients, steadily growing my experience with a broken dominant right arm. (Yes, I completed a bulk of my contracts with one hand)
 
-Since May 2025, I have joined National Defense of Canada as a software developer as a placement student, with an offer for permanent employment post-graduation. I accepted this, excitedly.
+**In May 2025, I joined the Department of National Defence of Canada as a software developer** as a placement student, with an offer later down the line for permanent employment post-graduation. **I accepted this, excitedly.**
 
-And, here I am now. I'm not perfect, and in no way do I think I am **an amazing software developer**, but I do have a tremendous amount of respect and passion for my work and I love learning new things every single day. 
+And, here I am now. **I'm not perfect,** and in no way do I think I am **an amazing software developer**, but I do have a tremendous amount of respect and passion for my work and I love learning new things every single day. 
 I'm always interested in new perspectives, design patterns, and workflows.
 
 ---
